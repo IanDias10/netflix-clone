@@ -1,2 +1,2 @@
 # netflix-clone
-Nesse projeto fui desafiado a recriando um clone do netflix.
+Nesse projeto fui desafiado a recriar um clone do netflix.
